@@ -1,5 +1,6 @@
 using Infrastructure.Extensions;
-using Infrastructure.Middleware;
+using MultitenantCoreApp.Middleware;
+
 
 var builder = WebApplication.CreateBuilder(args);
 

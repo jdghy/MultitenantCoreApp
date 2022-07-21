@@ -6,7 +6,7 @@ using Core.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.Extensions;
 
-namespace Infrastructure.Middleware
+namespace MultitenantCoreApp.Middleware
 {
     public class TenantResolutionMiddleware
     {
